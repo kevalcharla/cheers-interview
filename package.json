@@ -1,0 +1,27 @@
+{
+  "name": "cheers-interview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keval-charla-au13/cheers-interview.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keval-charla-au13/cheers-interview/issues"
+  },
+  "homepage": "https://github.com/keval-charla-au13/cheers-interview#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-validator": "^6.12.2",
+    "mongoose": "^6.0.8"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
